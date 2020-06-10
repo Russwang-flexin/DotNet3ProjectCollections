@@ -1,0 +1,13 @@
+D:\wangyang\wangyangMainDir\Frame.Spider\obj\Debug\netcoreapp3.1\Frame.Spider.csprojAssemblyReference.cache
+D:\wangyang\wangyangMainDir\Frame.Spider\obj\Debug\netcoreapp3.1\Frame.Spider.AssemblyInfoInputs.cache
+D:\wangyang\wangyangMainDir\Frame.Spider\obj\Debug\netcoreapp3.1\Frame.Spider.AssemblyInfo.cs
+D:\wangyang\wangyangMainDir\Frame.Spider\bin\Debug\netcoreapp3.1\Frame.Spider.deps.json
+D:\wangyang\wangyangMainDir\Frame.Spider\bin\Debug\netcoreapp3.1\Frame.Spider.dll
+D:\wangyang\DotNetCore3Collections\Frame.Spider\bin\Debug\netcoreapp3.1\Frame.Spider.deps.json
+D:\wangyang\DotNetCore3Collections\Frame.Spider\bin\Debug\netcoreapp3.1\Frame.Spider.dll
+D:\wangyang\DotNetCore3Collections\Frame.Spider\bin\Debug\netcoreapp3.1\Frame.Spider.pdb
+D:\wangyang\DotNetCore3Collections\Frame.Spider\obj\Debug\netcoreapp3.1\Frame.Spider.csprojAssemblyReference.cache
+D:\wangyang\DotNetCore3Collections\Frame.Spider\obj\Debug\netcoreapp3.1\Frame.Spider.AssemblyInfoInputs.cache
+D:\wangyang\DotNetCore3Collections\Frame.Spider\obj\Debug\netcoreapp3.1\Frame.Spider.AssemblyInfo.cs
+D:\wangyang\DotNetCore3Collections\Frame.Spider\obj\Debug\netcoreapp3.1\Frame.Spider.dll
+D:\wangyang\DotNetCore3Collections\Frame.Spider\obj\Debug\netcoreapp3.1\Frame.Spider.pdb

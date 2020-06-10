@@ -1,0 +1,16 @@
+D:\wangyang\wangyangMainDir\Frame.Core\bin\Debug\netcoreapp3.1\Frame.Core.deps.json
+D:\wangyang\wangyangMainDir\Frame.Core\bin\Debug\netcoreapp3.1\Frame.Core.dll
+D:\wangyang\wangyangMainDir\Frame.Core\bin\Debug\netcoreapp3.1\Frame.Core.pdb
+D:\wangyang\wangyangMainDir\Frame.Core\obj\Debug\netcoreapp3.1\Frame.Core.csprojAssemblyReference.cache
+D:\wangyang\wangyangMainDir\Frame.Core\obj\Debug\netcoreapp3.1\Frame.Core.AssemblyInfoInputs.cache
+D:\wangyang\wangyangMainDir\Frame.Core\obj\Debug\netcoreapp3.1\Frame.Core.AssemblyInfo.cs
+D:\wangyang\wangyangMainDir\Frame.Core\obj\Debug\netcoreapp3.1\Frame.Core.dll
+D:\wangyang\wangyangMainDir\Frame.Core\obj\Debug\netcoreapp3.1\Frame.Core.pdb
+D:\wangyang\DotNetCore3Collections\Frame.Core\bin\Debug\netcoreapp3.1\Frame.Core.deps.json
+D:\wangyang\DotNetCore3Collections\Frame.Core\bin\Debug\netcoreapp3.1\Frame.Core.dll
+D:\wangyang\DotNetCore3Collections\Frame.Core\bin\Debug\netcoreapp3.1\Frame.Core.pdb
+D:\wangyang\DotNetCore3Collections\Frame.Core\obj\Debug\netcoreapp3.1\Frame.Core.csprojAssemblyReference.cache
+D:\wangyang\DotNetCore3Collections\Frame.Core\obj\Debug\netcoreapp3.1\Frame.Core.AssemblyInfoInputs.cache
+D:\wangyang\DotNetCore3Collections\Frame.Core\obj\Debug\netcoreapp3.1\Frame.Core.AssemblyInfo.cs
+D:\wangyang\DotNetCore3Collections\Frame.Core\obj\Debug\netcoreapp3.1\Frame.Core.dll
+D:\wangyang\DotNetCore3Collections\Frame.Core\obj\Debug\netcoreapp3.1\Frame.Core.pdb
