@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Frame.EFCore", "Frame.EFCor
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Frame.Spider", "Frame.Spider\Frame.Spider.csproj", "{B1B55F47-B602-49D9-8263-679701C3B740}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetScrapy", "DotNetScrapy\DotNetScrapy.csproj", "{911E8AE3-0DAB-4B28-9D50-2ED3DA7F5C94}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{B1B55F47-B602-49D9-8263-679701C3B740}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1B55F47-B602-49D9-8263-679701C3B740}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1B55F47-B602-49D9-8263-679701C3B740}.Release|Any CPU.Build.0 = Release|Any CPU
+		{911E8AE3-0DAB-4B28-9D50-2ED3DA7F5C94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{911E8AE3-0DAB-4B28-9D50-2ED3DA7F5C94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{911E8AE3-0DAB-4B28-9D50-2ED3DA7F5C94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{911E8AE3-0DAB-4B28-9D50-2ED3DA7F5C94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

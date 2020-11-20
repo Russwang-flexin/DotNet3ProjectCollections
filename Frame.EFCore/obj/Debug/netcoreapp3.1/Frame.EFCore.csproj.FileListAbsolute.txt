@@ -24,3 +24,16 @@ D:\wangyang\DotNetCore3Collections\Frame.EFCore\obj\Debug\netcoreapp3.1\Frame.EF
 D:\wangyang\DotNetCore3Collections\Frame.EFCore\obj\Debug\netcoreapp3.1\Frame.EFCore.csproj.CopyComplete
 D:\wangyang\DotNetCore3Collections\Frame.EFCore\obj\Debug\netcoreapp3.1\Frame.EFCore.dll
 D:\wangyang\DotNetCore3Collections\Frame.EFCore\obj\Debug\netcoreapp3.1\Frame.EFCore.pdb
+C:\Users\viruser.v-desktop\Desktop\DotNet3ProjectCollections\Frame.EFCore\bin\Debug\netcoreapp3.1\Frame.EFCore.deps.json
+C:\Users\viruser.v-desktop\Desktop\DotNet3ProjectCollections\Frame.EFCore\bin\Debug\netcoreapp3.1\Frame.EFCore.runtimeconfig.json
+C:\Users\viruser.v-desktop\Desktop\DotNet3ProjectCollections\Frame.EFCore\bin\Debug\netcoreapp3.1\Frame.EFCore.runtimeconfig.dev.json
+C:\Users\viruser.v-desktop\Desktop\DotNet3ProjectCollections\Frame.EFCore\bin\Debug\netcoreapp3.1\Frame.EFCore.dll
+C:\Users\viruser.v-desktop\Desktop\DotNet3ProjectCollections\Frame.EFCore\bin\Debug\netcoreapp3.1\Frame.EFCore.pdb
+C:\Users\viruser.v-desktop\Desktop\DotNet3ProjectCollections\Frame.EFCore\bin\Debug\netcoreapp3.1\Frame.Core.dll
+C:\Users\viruser.v-desktop\Desktop\DotNet3ProjectCollections\Frame.EFCore\bin\Debug\netcoreapp3.1\Frame.Core.pdb
+C:\Users\viruser.v-desktop\Desktop\DotNet3ProjectCollections\Frame.EFCore\obj\Debug\netcoreapp3.1\Frame.EFCore.csprojAssemblyReference.cache
+C:\Users\viruser.v-desktop\Desktop\DotNet3ProjectCollections\Frame.EFCore\obj\Debug\netcoreapp3.1\Frame.EFCore.AssemblyInfoInputs.cache
+C:\Users\viruser.v-desktop\Desktop\DotNet3ProjectCollections\Frame.EFCore\obj\Debug\netcoreapp3.1\Frame.EFCore.AssemblyInfo.cs
+C:\Users\viruser.v-desktop\Desktop\DotNet3ProjectCollections\Frame.EFCore\obj\Debug\netcoreapp3.1\Frame.EFCore.csproj.CopyComplete
+C:\Users\viruser.v-desktop\Desktop\DotNet3ProjectCollections\Frame.EFCore\obj\Debug\netcoreapp3.1\Frame.EFCore.dll
+C:\Users\viruser.v-desktop\Desktop\DotNet3ProjectCollections\Frame.EFCore\obj\Debug\netcoreapp3.1\Frame.EFCore.pdb

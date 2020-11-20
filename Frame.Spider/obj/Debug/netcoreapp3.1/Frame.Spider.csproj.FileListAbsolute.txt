@@ -11,3 +11,11 @@ D:\wangyang\DotNetCore3Collections\Frame.Spider\obj\Debug\netcoreapp3.1\Frame.Sp
 D:\wangyang\DotNetCore3Collections\Frame.Spider\obj\Debug\netcoreapp3.1\Frame.Spider.AssemblyInfo.cs
 D:\wangyang\DotNetCore3Collections\Frame.Spider\obj\Debug\netcoreapp3.1\Frame.Spider.dll
 D:\wangyang\DotNetCore3Collections\Frame.Spider\obj\Debug\netcoreapp3.1\Frame.Spider.pdb
+C:\Users\viruser.v-desktop\Desktop\DotNet3ProjectCollections\Frame.Spider\bin\Debug\netcoreapp3.1\Frame.Spider.deps.json
+C:\Users\viruser.v-desktop\Desktop\DotNet3ProjectCollections\Frame.Spider\bin\Debug\netcoreapp3.1\Frame.Spider.dll
+C:\Users\viruser.v-desktop\Desktop\DotNet3ProjectCollections\Frame.Spider\bin\Debug\netcoreapp3.1\Frame.Spider.pdb
+C:\Users\viruser.v-desktop\Desktop\DotNet3ProjectCollections\Frame.Spider\obj\Debug\netcoreapp3.1\Frame.Spider.csprojAssemblyReference.cache
+C:\Users\viruser.v-desktop\Desktop\DotNet3ProjectCollections\Frame.Spider\obj\Debug\netcoreapp3.1\Frame.Spider.AssemblyInfoInputs.cache
+C:\Users\viruser.v-desktop\Desktop\DotNet3ProjectCollections\Frame.Spider\obj\Debug\netcoreapp3.1\Frame.Spider.AssemblyInfo.cs
+C:\Users\viruser.v-desktop\Desktop\DotNet3ProjectCollections\Frame.Spider\obj\Debug\netcoreapp3.1\Frame.Spider.dll
+C:\Users\viruser.v-desktop\Desktop\DotNet3ProjectCollections\Frame.Spider\obj\Debug\netcoreapp3.1\Frame.Spider.pdb

@@ -21,6 +21,5 @@ namespace Frame.Spider
         /// 任务延迟
         /// </summary>
         public static int TaskDelay = 1000;
-
     }
 }

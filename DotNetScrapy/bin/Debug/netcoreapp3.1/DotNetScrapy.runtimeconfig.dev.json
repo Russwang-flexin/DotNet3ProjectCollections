@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\viruser.v-desktop\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\viruser.v-desktop\\.nuget\\packages"
+    ]
+  }
+}

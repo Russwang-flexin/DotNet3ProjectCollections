@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\wangyang\\DotNetCore3Collections\\Frame.Spider\\Frame.Spider.csproj": {}
+    "C:\\Users\\viruser.v-desktop\\Desktop\\DotNet3ProjectCollections\\Frame.Spider\\Frame.Spider.csproj": {}
   },
   "projects": {
-    "D:\\wangyang\\DotNetCore3Collections\\Frame.Spider\\Frame.Spider.csproj": {
+    "C:\\Users\\viruser.v-desktop\\Desktop\\DotNet3ProjectCollections\\Frame.Spider\\Frame.Spider.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\wangyang\\DotNetCore3Collections\\Frame.Spider\\Frame.Spider.csproj",
+        "projectUniqueName": "C:\\Users\\viruser.v-desktop\\Desktop\\DotNet3ProjectCollections\\Frame.Spider\\Frame.Spider.csproj",
         "projectName": "Frame.Spider",
-        "projectPath": "D:\\wangyang\\DotNetCore3Collections\\Frame.Spider\\Frame.Spider.csproj",
+        "projectPath": "C:\\Users\\viruser.v-desktop\\Desktop\\DotNet3ProjectCollections\\Frame.Spider\\Frame.Spider.csproj",
         "packagesPath": "C:\\Users\\viruser.v-desktop\\.nuget\\packages\\",
-        "outputPath": "D:\\wangyang\\DotNetCore3Collections\\Frame.Spider\\obj\\",
+        "outputPath": "C:\\Users\\viruser.v-desktop\\Desktop\\DotNet3ProjectCollections\\Frame.Spider\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\viruser.v-desktop\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,7 +21,6 @@
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -42,9 +41,17 @@
               "target": "Package",
               "version": "[1.11.24, )"
             },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[12.0.3, )"
+            },
+            "System.Text.Encoding.CodePages": {
+              "target": "Package",
+              "version": "[5.0.0, )"
             }
           },
           "imports": [

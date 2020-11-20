@@ -8,7 +8,7 @@ using System.Threading;
 namespace Frame.Spider
 {
     /// <summary>
-    ///  先这么拿本地的队列用着
+    ///  先这么拿本地的队列用着 MQ？
     /// </summary>
     public class PriorityQueue<T>
     {
@@ -41,7 +41,7 @@ namespace Frame.Spider
                 }
                 else 
                 {
-                    throw new IndexOutOfRangeException("Empty Queue！");
+                    return default;
                 }
             }
         }

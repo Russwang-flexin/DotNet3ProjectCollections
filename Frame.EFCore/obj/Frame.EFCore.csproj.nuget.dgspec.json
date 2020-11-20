@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\wangyang\\DotNetCore3Collections\\Frame.EFCore\\Frame.EFCore.csproj": {}
+    "C:\\Users\\viruser.v-desktop\\Desktop\\DotNet3ProjectCollections\\Frame.EFCore\\Frame.EFCore.csproj": {}
   },
   "projects": {
-    "D:\\wangyang\\DotNetCore3Collections\\Frame.Core\\Frame.Core.csproj": {
+    "C:\\Users\\viruser.v-desktop\\Desktop\\DotNet3ProjectCollections\\Frame.Core\\Frame.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\wangyang\\DotNetCore3Collections\\Frame.Core\\Frame.Core.csproj",
+        "projectUniqueName": "C:\\Users\\viruser.v-desktop\\Desktop\\DotNet3ProjectCollections\\Frame.Core\\Frame.Core.csproj",
         "projectName": "Frame.Core",
-        "projectPath": "D:\\wangyang\\DotNetCore3Collections\\Frame.Core\\Frame.Core.csproj",
+        "projectPath": "C:\\Users\\viruser.v-desktop\\Desktop\\DotNet3ProjectCollections\\Frame.Core\\Frame.Core.csproj",
         "packagesPath": "C:\\Users\\viruser.v-desktop\\.nuget\\packages\\",
-        "outputPath": "D:\\wangyang\\DotNetCore3Collections\\Frame.Core\\obj\\",
+        "outputPath": "C:\\Users\\viruser.v-desktop\\Desktop\\DotNet3ProjectCollections\\Frame.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\viruser.v-desktop\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,7 +21,6 @@
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -65,14 +64,14 @@
         }
       }
     },
-    "D:\\wangyang\\DotNetCore3Collections\\Frame.EFCore\\Frame.EFCore.csproj": {
+    "C:\\Users\\viruser.v-desktop\\Desktop\\DotNet3ProjectCollections\\Frame.EFCore\\Frame.EFCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\wangyang\\DotNetCore3Collections\\Frame.EFCore\\Frame.EFCore.csproj",
+        "projectUniqueName": "C:\\Users\\viruser.v-desktop\\Desktop\\DotNet3ProjectCollections\\Frame.EFCore\\Frame.EFCore.csproj",
         "projectName": "Frame.EFCore",
-        "projectPath": "D:\\wangyang\\DotNetCore3Collections\\Frame.EFCore\\Frame.EFCore.csproj",
+        "projectPath": "C:\\Users\\viruser.v-desktop\\Desktop\\DotNet3ProjectCollections\\Frame.EFCore\\Frame.EFCore.csproj",
         "packagesPath": "C:\\Users\\viruser.v-desktop\\.nuget\\packages\\",
-        "outputPath": "D:\\wangyang\\DotNetCore3Collections\\Frame.EFCore\\obj\\",
+        "outputPath": "C:\\Users\\viruser.v-desktop\\Desktop\\DotNet3ProjectCollections\\Frame.EFCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\viruser.v-desktop\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,14 +81,13 @@
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\wangyang\\DotNetCore3Collections\\Frame.Core\\Frame.Core.csproj": {
-                "projectPath": "D:\\wangyang\\DotNetCore3Collections\\Frame.Core\\Frame.Core.csproj"
+              "C:\\Users\\viruser.v-desktop\\Desktop\\DotNet3ProjectCollections\\Frame.Core\\Frame.Core.csproj": {
+                "projectPath": "C:\\Users\\viruser.v-desktop\\Desktop\\DotNet3ProjectCollections\\Frame.Core\\Frame.Core.csproj"
               }
             }
           }

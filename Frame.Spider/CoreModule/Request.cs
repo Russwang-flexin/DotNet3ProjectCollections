@@ -9,5 +9,6 @@ namespace Frame.Spider
     {
         public HttpWebRequest WebRequest { get; set; }
         public Func<HtmlAgilityPack.HtmlDocument, BaseFieldsItem> Callback { get; set; }
+        public HttpRequestParameter RequestParams { get; set; }
     }
 }

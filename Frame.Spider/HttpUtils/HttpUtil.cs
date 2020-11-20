@@ -12,6 +12,10 @@ namespace Frame.Spider
 {
     public class HttpUtil
     {
+        static HttpUtil()
+        {
+            Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
+        }
         /// <summary>
         /// 执行方法
         /// </summary>
@@ -28,7 +32,7 @@ namespace Frame.Spider
             //    ServicePointManager.SecurityProtocol = SecurityProtocolType.Tls;
             //    ServicePointManager.ServerCertificateValidationCallback = CheckValidationResult;
             //}
-            SetParameter(webRequest, requestParameter);
+            SetParameter(ref webRequest, requestParameter);
             return new Request() { WebRequest = webRequest };
         }
 
@@ -85,7 +89,7 @@ namespace Frame.Spider
         /// </summary>
         /// <param name="webRequest">HttpWebRequest对象</param>
         /// <param name="requestParameter">请求参数对象</param>
-        static void SetParameter(HttpWebRequest webRequest, HttpRequestParameter requestParameter)
+        static void SetParameter(ref HttpWebRequest webRequest, HttpRequestParameter requestParameter)
         {
             if (requestParameter.Parameters == null || requestParameter.Parameters.Count <= 0) return;
 
@@ -97,7 +101,8 @@ namespace Frame.Spider
                     data.AppendFormat("{0}={1}&", keyValuePair.Key, keyValuePair.Value);
                 }
                 string para = data.Remove(data.Length - 1, 1).ToString();
-
+                Encoding.RegisterProvider(CodePagesEncodingProvider.Instance);
+                requestParameter.Encoding = Encoding.GetEncoding(requestParameter.EncodingStr);
                 byte[] bytePosts = requestParameter.Encoding.GetBytes(para);
                 webRequest.ContentLength = bytePosts.Length;
                 using (Stream requestStream = webRequest.GetRequestStream())
@@ -126,7 +131,8 @@ namespace Frame.Spider
                     CookieCollection = webResponse.Cookies,
                     CookieString = webResponse.Headers["Set-Cookie"]
                 };
-                using (StreamReader reader = new StreamReader(webResponse.GetResponseStream(), Encoding.UTF8))
+                webRequest.RequestParams.Encoding = Encoding.GetEncoding(webRequest.RequestParams.EncodingStr);
+                using (StreamReader reader = new StreamReader(webResponse.GetResponseStream(), webRequest.RequestParams.Encoding))
                 {
                     responseParameter.Body = reader.ReadToEnd();
                 }

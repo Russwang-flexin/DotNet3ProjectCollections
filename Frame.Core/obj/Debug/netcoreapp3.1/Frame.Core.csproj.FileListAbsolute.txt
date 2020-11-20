@@ -14,3 +14,11 @@ D:\wangyang\DotNetCore3Collections\Frame.Core\obj\Debug\netcoreapp3.1\Frame.Core
 D:\wangyang\DotNetCore3Collections\Frame.Core\obj\Debug\netcoreapp3.1\Frame.Core.AssemblyInfo.cs
 D:\wangyang\DotNetCore3Collections\Frame.Core\obj\Debug\netcoreapp3.1\Frame.Core.dll
 D:\wangyang\DotNetCore3Collections\Frame.Core\obj\Debug\netcoreapp3.1\Frame.Core.pdb
+C:\Users\viruser.v-desktop\Desktop\DotNet3ProjectCollections\Frame.Core\bin\Debug\netcoreapp3.1\Frame.Core.deps.json
+C:\Users\viruser.v-desktop\Desktop\DotNet3ProjectCollections\Frame.Core\bin\Debug\netcoreapp3.1\Frame.Core.dll
+C:\Users\viruser.v-desktop\Desktop\DotNet3ProjectCollections\Frame.Core\bin\Debug\netcoreapp3.1\Frame.Core.pdb
+C:\Users\viruser.v-desktop\Desktop\DotNet3ProjectCollections\Frame.Core\obj\Debug\netcoreapp3.1\Frame.Core.csprojAssemblyReference.cache
+C:\Users\viruser.v-desktop\Desktop\DotNet3ProjectCollections\Frame.Core\obj\Debug\netcoreapp3.1\Frame.Core.AssemblyInfoInputs.cache
+C:\Users\viruser.v-desktop\Desktop\DotNet3ProjectCollections\Frame.Core\obj\Debug\netcoreapp3.1\Frame.Core.AssemblyInfo.cs
+C:\Users\viruser.v-desktop\Desktop\DotNet3ProjectCollections\Frame.Core\obj\Debug\netcoreapp3.1\Frame.Core.dll
+C:\Users\viruser.v-desktop\Desktop\DotNet3ProjectCollections\Frame.Core\obj\Debug\netcoreapp3.1\Frame.Core.pdb

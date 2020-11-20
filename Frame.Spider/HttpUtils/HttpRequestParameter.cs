@@ -42,6 +42,8 @@ namespace Frame.Spider
 
         public Encoding Encoding { get; set; }
 
+        public string EncodingStr { get; set; }
+
         public IDictionary<string, string> Parameters { get; set; }
 
         public Headers headers { get; set; }

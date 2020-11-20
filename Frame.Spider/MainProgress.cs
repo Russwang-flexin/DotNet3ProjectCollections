@@ -4,9 +4,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using HtmlAgilityPack;
-
-
-
+    
 namespace Frame.Spider
 {
     public delegate void SpiderRegistryHandler(BasicSpider spider);
@@ -61,7 +59,9 @@ namespace Frame.Spider
             Thread t2 = new Thread(ProducerStart);
             Thread t1 = new Thread(CustomStart);
             t2.Start();
+            t2.Join();
             t1.Start();
+            t1.Join();
         }
 
         void ProducerStart()
@@ -73,6 +73,7 @@ namespace Frame.Spider
                 foreach (var spider in request)
                 {
                     spider.Callback = spiders.Parse;
+                    spider.RequestParams = spiders.RequestParameter;
                     PriorityQueue<Request>.EnqueueTask(spider);
                     _wh.Set();
                 }
@@ -98,7 +99,7 @@ namespace Frame.Spider
             }
         }
 
-        void CustomHelper(Object request)
+        void CustomHelper(object request)
         {
             var str = httpProvider.Excute(request as Request);
             Task.WhenAll(str);
